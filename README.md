@@ -1,5 +1,5 @@
 # Human-Words-Audio-Classification
-This project implements an audio classification pipeline for classifying animal sounds (bird, cat, dog) from a dataset. The pipeline processes audio files, extracts features, and applies machine learning and deep learning models to classify the sounds. The workflow includes:
+This project illustrates an audio classification pipeline for classifying human words sounds (bird, cat, dog) from a dataset. The pipeline processes audio files, extracts features, and applies machine learning and deep learning models to classify the sounds. The workflow includes:
 
     Data Loading and Extraction:
         The dataset is extracted from a zip file containing audio files for bird, cat, and dog sounds.
@@ -26,4 +26,4 @@ This project implements an audio classification pipeline for classifying animal 
     Performance Metrics:
         Accuracy, classification report, and confusion matrix are generated for both models to assess and compare performance.
 
-This repository provides a comprehensive approach to audio classification using both MLP and CNN models, demonstrating feature extraction, model training, and evaluation for classifying animal sounds.
+This repository provides a comprehensive approach to audio classification using both MLP and CNN models, demonstrating feature extraction, model training, and evaluation for classifying human words sounds.
