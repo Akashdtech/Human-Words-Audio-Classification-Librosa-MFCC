@@ -1,4 +1,4 @@
-# Human-Words-Audio-Classification
+# Human-Words-Audio-Classification-Librosa-MFCC
 This project illustrates an audio classification pipeline for classifying human words sounds (bird, cat, dog) from a dataset. The pipeline processes audio files, extracts features, and applies machine learning and deep learning models to classify the sounds. The workflow includes:
 
     Data Loading and Extraction:
