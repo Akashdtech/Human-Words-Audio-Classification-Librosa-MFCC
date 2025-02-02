@@ -1,0 +1,35 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Data files
+*.wav
+*.zip
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment files
+venv/
+.env
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Output files or logs
+*.log
+*.out
+
+# Temporary files
+*.tmp
+temp/
+
+# Colab specific files
+sample_data/
+.config/
+
+# Ignore model files
+*.h5
+*.pkl
