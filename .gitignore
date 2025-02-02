@@ -22,14 +22,6 @@ Thumbs.db
 *.log
 *.out
 
-# Temporary files
-*.tmp
-temp/
-
-# Colab specific files
-sample_data/
-.config/
-
 # Ignore model files
 *.h5
 *.pkl
